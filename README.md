@@ -10,6 +10,9 @@ I learned several things from this projects
 * Importance of widgets in flutter
 * Learned quite a few widgets such as Scaffold, AppBar, MaterialApp and widget properties
 
+
+# LEARNING RESOURCE
+
 [Udemy](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
 
 
